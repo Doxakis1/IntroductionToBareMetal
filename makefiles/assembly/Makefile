@@ -39,4 +39,4 @@ upload: $(HEX)
 # Clean the generated files
 clean:
 	rm -f $(OBJ) $(TARGET) $(HEX)
-
+re: clean all
