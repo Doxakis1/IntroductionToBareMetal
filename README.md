@@ -402,7 +402,7 @@ For the last lesson, we worked with sending signal, now I want to show you as th
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6a_NHXujP9_JKmEEBTA6JW0Xa-XI7jAmoUw7dnlaYRCOjk5WBHKJLs4YGlg-Bipvu1dXGsE7OOTwz4Tz_hBdYgMq-CGZK2hDWxu2AJ36Moq4oMXhXnynHLQK0G2Syx78woWRIf5ShOSpavQRurPSx3c4?key=9rAVAIlGuPmBaTfId18n7w)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1MF86fH81FDtKzTBElGAbmoB0t92lpHH8kGmjGjYDjgAaDOEPqawsZTM--W0TCkWAf4BTe-hfgRB3L9chQLViNpzuRD5ToomsxMhSu63zKb9f2vW1VN0N8Z9qch6ZukbWA-xA6BzhR7g06uDHztTXhkKk?key=9rAVAIlGuPmBaTfId18n7w)
 
-So we have now attache button on \[3]\[e] and \[3]\[f], \[5]\[e] and \[5]\[f]. Then we connected \[5]\[e] to POWER and \[3]\[e] to GROUND.
+So we have now attache button on \[3]\[e] and \[3]\[f], \[5]\[e] and \[5]\[f]. Then we connected \[5]\[e] to POWER and \[3]\[e] to GROUND (in the image you see me connecting it with a cable, CONNECT IT WITH A RESISTOR LOL, I will leave this to show I make mistakes too. But consult the next hardware pictures to see the correct way).
 
 The purpose of the lesson is to learn how read from the button. For this we have attached \[e]\[f] to our trusted PORTB5 <3
 
