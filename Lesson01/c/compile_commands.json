@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-c",
+      "-mmcu=atmega328p",
+      "-DF_CPU=16000000UL",
+      "-Os",
+      "-o",
+      "main.elf",
+      "main.c"
+    ],
+    "directory": "/home/doxakis/Desktop/IntroductionToBareMetal/Lesson01/c",
+    "file": "/home/doxakis/Desktop/IntroductionToBareMetal/Lesson01/c/main.c",
+    "output": "/home/doxakis/Desktop/IntroductionToBareMetal/Lesson01/c/main.elf"
+  }
+]

@@ -1,7 +1,7 @@
 .equ DDRB , 0x04	; define the DDRB address as per ATmega328P docs
 .equ PORTB , 0x05	; define the PORTB address as per ATmega328P docs
-.equ r16 , 0x80		; define the register we want to use
-.equ r15 , 0x78 	; define the register we want to use
+.equ r16 , 0x10		; define the register we want to use
+.equ r15 , 0x0F 	; define the register we want to use
 .org 0x0000	; Set the origin to the zero
 
 SET_PIN_HIGH:
